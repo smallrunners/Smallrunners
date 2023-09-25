@@ -1,3 +1,7 @@
+<!-- LUIT GitHub Profile Template -->
+
+<!-- Keep "Hi there" or replace it with a greeting of your own! -->
+
 ### Hi there 👋
 
 <!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
@@ -6,9 +10,9 @@ Find out more about me & feel free to connect with me here:
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-Broadus%20Palmer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/levelupwithbroadus/)](https://www.linkedin.com/in/levelupwithbroadus/)
-[![Medium Badge](https://img.shields.io/badge/Broadus%20Palmer-12100E?style=flat-square&logo=medium&logoColor=white&link=https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/)](https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/)
-[![Gmail Badge](https://img.shields.io/badge/-Broadus@Levelupintech.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Broadus@Levelupintech.com)](mailto:Broadus@Levelupintech.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Ryan%20Small-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/ryan-small-7960a8184)](www.linkedin.com/in/ryan-small-7960a8184)
+[![Medium Badge](https://img.shields.io/badge/Ryan%20Small-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@ryan.smalls)](https://medium.com/@ryan.smalls)
+[![Gmail Badge](https://img.shields.io/badge/-ryan.smalls42@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ryan.smalls42@gmail.com)](mailto:ryan.smalls42@gmail.com)
 
 ## ⚡ Technologies
 
@@ -25,8 +29,8 @@ Find out more about me & feel free to connect with me here:
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=LevelUpInTech&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LevelUpInTech&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=smallrunners&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smallrunners&hide=TeX&layout=compact)
 
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=LevelUpInTech%2FLevelUpInTech&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=LevelUpInTech%2FLevelUpInTech)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=smallrunners%2Fsmallrunners&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=smallrunners%2Fsmallrunners)
